@@ -25,7 +25,7 @@ python main.py
 python main.py
 ```
 
-2. Input the amount of seconds to record:
+2. Input the number of seconds to record:
 ```
 Enter the duration of the recording in seconds:
 ```
@@ -38,13 +38,8 @@ Enter the file name to save the recording:
 4. The recording will be saved to the specified file in the current directory in a .wav format.
 
 ## Example
-<audio controls>
-    <source src="test-recording.wav" type="audio/wav">
-</audio>
 
-<video controls>
-    <source src="demo.mp4" type="video/mp4">
-</video>
+https://github.com/aramb-dev/python-voice-recorder/assets/65731416/eb1f6a0b-6a95-4d13-a846-480b678cf239
 
 ## License
 <!-- Include the MIT License here -->
