@@ -39,6 +39,9 @@ Enter the file name to save the recording:
 
 ## Example
 
+[Test Recording (WAV file format)
+](https://github.com/aramb-dev/python-voice-recorder/blob/main/test-recording.wav)
+
 https://github.com/aramb-dev/python-voice-recorder/assets/65731416/eb1f6a0b-6a95-4d13-a846-480b678cf239
 
 ## License
